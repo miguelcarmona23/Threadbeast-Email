@@ -659,5 +659,8 @@ a.es-button {
         display: inline-block !important;
     }
 }
+.es-p10t:hover {
+    background-color: gray;
+}
 
 /* END RESPONSIVE STYLES */
