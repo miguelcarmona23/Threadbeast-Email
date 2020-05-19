@@ -2,7 +2,7 @@
 
 This is a Promotional HTML Email for a clothing box subscription for a clothing company.
 
-![Image description](/images/project_thumbnail.png)
+![Image description](/img/project_thumbnail.png)
 
 
 
